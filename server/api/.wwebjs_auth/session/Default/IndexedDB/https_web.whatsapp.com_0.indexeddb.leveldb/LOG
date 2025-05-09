@@ -1,0 +1,19 @@
+2025/05/09-19:59:04.027 2538 Reusing MANIFEST C:\Users\deHypeChief\Documents\Projects\sandbox\snapsend-ng\server\api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/09-19:59:04.029 2538 Recovering log #337
+2025/05/09-19:59:04.352 2538 Reusing old log C:\Users\deHypeChief\Documents\Projects\sandbox\snapsend-ng\server\api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000337.log 
+2025/05/09-19:59:18.875 2988 Level-0 table #345: started
+2025/05/09-19:59:19.098 2988 Level-0 table #345: 360612 bytes OK
+2025/05/09-19:59:19.128 2988 Delete type=0 #337
+2025/05/09-19:59:19.151 2504 Manual compaction at level-0 from '\x00=\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00>\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/09-19:59:36.591 2988 Compacting 1@1 + 4@2 files
+2025/05/09-19:59:37.859 2988 Generated table #346@1: 52070 keys, 2213897 bytes
+2025/05/09-19:59:38.813 2988 Generated table #347@1: 28052 keys, 2232760 bytes
+2025/05/09-19:59:39.920 2988 Generated table #348@1: 75442 keys, 2269764 bytes
+2025/05/09-19:59:40.495 2988 Generated table #349@1: 39810 keys, 808683 bytes
+2025/05/09-19:59:40.495 2988 Compacted 1@1 + 4@2 files => 7525104 bytes
+2025/05/09-19:59:40.526 2988 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/05/09-19:59:40.530 2988 Delete type=2 #339
+2025/05/09-19:59:40.530 2988 Delete type=2 #340
+2025/05/09-19:59:40.530 2988 Delete type=2 #341
+2025/05/09-19:59:40.530 2988 Delete type=2 #342
+2025/05/09-19:59:40.530 2988 Delete type=2 #345
